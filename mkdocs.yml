@@ -1,2 +1,14 @@
 site_name: Blackhawk
-site_dir: "../../blackhawk/gh-pages"
+site_description: Build your next killer app for multiple platforms using this clean JavaScript Application Framework
+site_url: http://vikasburman.github.io/blackhawk
+site_author: Vikas Burman
+copyright: Copyright &copy; 2014-2015 <a href='http://www.vikasburman.com'>Vikas Burman</a>. All rights reserved.
+site_dir: '../../blackhawk/gh-pages'
+repo_url: https://github.com/vikasburman/blackhawk
+google_analytics: ['UA-27795084-5', 'blackhawk.org']
+site_favicon: favicon.png
+theme: bootstrap
+theme_dir: custom_theme
+pages:
+- ['index.md', 'Introduction']
+
